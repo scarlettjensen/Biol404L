@@ -1,3 +1,3 @@
 # Biol404L
 
-[Notebook Page](ttps://scarlettjensen.github.io/Biol404L/)
+[Notebook Page](https://scarlettjensen.github.io/Biol404L/)
